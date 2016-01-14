@@ -1,0 +1,27 @@
+{
+  "name": "pet_feeder",
+  "version": "1.0.0",
+  "description": "Pet feeder client for rpi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamsha12/Pet-Feeder.git"
+  },
+  "keywords": [
+    "rpi",
+    "pet",
+    "feeder"
+  ],
+  "author": "gabber12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamsha12/Pet-Feeder/issues"
+  },
+  "homepage": "https://github.com/shubhamsha12/Pet-Feeder#readme",
+  "dependencies": {
+    "rpio": "^0.9.6"
+  }
+}
